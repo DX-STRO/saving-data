@@ -60,7 +60,7 @@
                     </form>
                     <!-- TRIGGER BUTTON REGISTER-->
                     <div class="d-flex justify-content-center">
-                        <a href="#add" class="text-center" data-bs-toggle="modal">Belum Mempunyai Akun? Register</a>
+                        <a href="#add" class="text-center" data-bs-toggle="modal">Belum Mempunyai Akun? Silahkan Register</a>
                     </div>
 
                     <!-- MODAL BUTTON REGISTER-->
